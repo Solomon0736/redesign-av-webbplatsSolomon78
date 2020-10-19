@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\InteractiveGraphicsTE-18\InteractiveGraphicsTE-18.iml" timestamp="1588839057987" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\InteractiveGraphicsTE-18\.idea\modules.xml" timestamp="1588839058029" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\InteractiveGraphicsTE-18\.idea\workspace.xml" timestamp="1588839758784" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\InteractiveGraphicsTE-18\.idea\misc.xml" timestamp="1588839058015" />
+  </project-files>
+</conversion>

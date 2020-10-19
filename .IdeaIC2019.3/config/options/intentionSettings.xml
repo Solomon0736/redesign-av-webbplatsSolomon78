@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="Java/Other/Put arguments on one line" />
+    <ignoreAction name="Java/Numbers/Convert number" />
+  </component>
+</application>

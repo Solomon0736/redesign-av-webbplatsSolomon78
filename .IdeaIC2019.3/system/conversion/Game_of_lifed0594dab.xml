@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\.idea\vcs.xml" timestamp="1601888752497" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\Game of life.iml" timestamp="1603115197901" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\.idea\misc.xml" timestamp="1603114716404" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\.idea\uiDesigner.xml" timestamp="1602588101634" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\.idea\modules.xml" timestamp="1601885488847" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\Game of life\.idea\workspace.xml" timestamp="1603115204697" />
+  </project-files>
+</conversion>

@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\övning1\.idea\misc.xml" timestamp="1598259065325" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\övning1\.idea\modules.xml" timestamp="1598259065341" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\övning1\.idea\workspace.xml" timestamp="1601885583681" />
+    <file path="C:\Users\solomontikabo.musie\IdeaProjects\övning1\övning1.iml" timestamp="1598259065294" />
+  </project-files>
+</conversion>
